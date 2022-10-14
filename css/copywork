@@ -1,0 +1,34 @@
+.fire {
+    width: 500px;
+    height: 500px;
+    border: black;
+    border-style: solid;
+    margin-left: 50px;
+}
+
+.earth {
+    margin-left: 100px;
+    margin-bottom: 100px;
+    width: 350px;
+    height: 350px;
+    border: black;
+    border-style: solid;
+}
+
+.air {
+    float: right;
+    width: 350px;
+    height: 350px;
+    margin-top: -400px;
+    border: black;
+    border-style: solid;
+}  
+
+.water {
+    margin-left: 1100px;
+    margin-top: -1200px;
+    width: 350px;
+    height: 350px;
+    border: black;
+    border-style: solid;
+}

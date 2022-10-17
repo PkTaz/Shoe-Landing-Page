@@ -3,7 +3,7 @@ header {
     border-style: groove;
     border-color: rgb(24, 68, 163);
     border-width: 10px; 
-    margin-top: -25px;
+    
     margin: 0;
 }
 
@@ -261,3 +261,4 @@ li {
     margin-left: 1450px;
     margin-top: -80px;
 }
+

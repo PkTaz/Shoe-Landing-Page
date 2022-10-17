@@ -6,7 +6,7 @@ header {
     margin: 0;
     margin-right: -10px;
     margin-left: -10px;
-    margin-top: -7px;
+    margin-top: -8px;
 }
 
 html { 
@@ -61,7 +61,7 @@ li {
     margin-top: -5px;
     padding-left: 107px;
     font-size: 42px;
-    padding-right: 60px;
+    padding-right: 150px;
     color: whitesmoke;
     margin-left: -10px;
     margin-right: -10px;
@@ -117,7 +117,7 @@ li {
 .air {
     width: 350px;
     height: 350px;
-    margin-left: 1000px;
+    margin-left: 1100px;
     margin-top: -4px;
     border: black;
     border-style: solid;
@@ -126,8 +126,8 @@ li {
 .airtxt {
     width: 125px;
     font-size: 50px;
-    margin-left: 1200px;
-    margin-top: -559px;
+    margin-left: 1300px;
+    margin-top: -562px;
     padding-left: 75px;
     padding-right: 50px;
     background-color: black;
@@ -136,7 +136,7 @@ li {
 }
 
 .water {
-    margin-left: 1475px;
+    margin-left: 1575px;
     
     width: 350px;
     height: 350px;
@@ -150,7 +150,7 @@ li {
     padding-left: 75px;
     padding-right: 75px;
     font-size: 50px;
-    margin-left: 1620px;
+    margin-left: 1720px;
     margin-top: -457px;
     background-color: black;
     color: blue;
@@ -163,8 +163,10 @@ li {
     background-color: rgb(255, 255, 255);
     font-size: 40px;
     margin-left: 125px;
-    margin-top: -5px;
-    margin-right: 1500px;
+    margin-top: -7px;
+    margin-right: 1700px;
+   
+    
 }
 
 .earth_price {
@@ -173,25 +175,25 @@ li {
     font-size: 40px;    
     margin-left: 625px;
     margin-top: -80px;
-    margin-right: 1000px;
+    margin-right: 1200px;
 }
 
 .air_price {
     color: aquamarine;
     background-color: white;
     font-size: 40px;
-    margin-left: 1025px;
+    margin-left: 1125px;
     margin-top: -82px;
-    margin-right: 600px;
+    margin-right: 700px;
 }
 
 .water_price {         
     background-color: white;
     color: blue;
     font-size: 40px;
-    margin-left: 1500px;
-    margin-top: -82px;
-    margin-right: 125px;
+    margin-left: 1600px;
+    margin-top: -76px;
+    margin-right: 225px;
 }
 
 .second_title {
@@ -203,7 +205,7 @@ li {
     border-style: groove;
     border-color: blue; 
     border-width: 6px;  
-    padding-left: 750px;
+    padding-left: 800px;
     padding-bottom: 800px;
 }
 
@@ -211,7 +213,7 @@ li {
     width: 350px;
     height: 350px; 
     border-style: solid;
-    margin-left: 125px;
+    margin-left: 100px;
     border-width: 5px; 
     position:relative; top: -350px;
      
@@ -222,7 +224,7 @@ li {
     width: 350px;
     height: 350px; 
     border-style: solid;
-    margin-left: 50px;
+    margin-left: 100px;
     border-width: 5px; 
     position:relative; top: -350px; 
 }
@@ -231,7 +233,7 @@ li {
     width: 350px;
     height: 350px; 
     border-style: solid;
-    margin-left: 100px;
+    margin-left: 200px;
     border-width: 5px; 
     position:relative; top: -350px; 
 }
@@ -240,32 +242,32 @@ li {
     width: 350px;
     height: 350px; 
     border-style: solid;
-    margin-left: 50px;
+    margin-left: 150px;
     border-width: 5px; 
     position:relative; top: -350px; 
 }
 
 .havarti {
     font-size: 40px;
-    margin-left: 150px;
+    margin-left: 125px;
     margin-top: -345px
 }
 
 .paul {
     font-size: 40px;
-    margin-left: 560px;
+    margin-left: 600px;
     margin-top: -80px;
 }
 
 .jamie {
     font-size: 40px;
-    margin-left: 1040px;
+    margin-left: 1170px;
     margin-top: -80px;
 }
 
 .dill {
     font-size: 40px;
-    margin-left: 1450px;
+    margin-left: 1690px;
     margin-top: -80px;
 }
 

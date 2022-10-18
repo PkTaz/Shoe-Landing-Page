@@ -3,10 +3,10 @@ header {
     border-style: groove;
     border-color: rgb(24, 68, 163);
     border-width: 10px; 
-    margin: 0;
     margin-right: -10px;
     margin-left: -10px;
-    margin-top: -8px;
+    margin-top: -10px;
+    
 }
 
 html { 
@@ -33,7 +33,7 @@ ul {
     display: flex;
     float: right;
     font-size: 30px;
-    margin-top: 50px;
+    margin-top: -90px;
     padding-right: 10px;
     color: white;
     font-family: 'Comic Sans MS', Impact;
@@ -59,9 +59,7 @@ li {
     text-align: center;
     background-color: black;
     margin-top: -5px;
-    padding-left: 107px;
     font-size: 42px;
-    padding-right: 150px;
     color: whitesmoke;
     margin-left: -10px;
     margin-right: -10px;
@@ -78,21 +76,19 @@ li {
 }
 
 .firetxt {
-    width: 125px;
-    font-size: 50px;
-    padding-left: 75px;
+    width: 50px;
+    font-size: 35px;
+    padding-left: 55px;
     padding-right: 75px;
-    margin-left: 25px;
+    margin-left: 15px;
     margin-top: -35px;
     background-color: black;
     color: red;
     
-
-
 }
 
 .earth {
-    margin-left: 600px;
+    margin-left: 500px;
     margin-bottom: 100px;
     width: 350px;
     height: 350px;
@@ -103,11 +99,11 @@ li {
 
 .earthtxt {
     width: 125px;
-    font-size: 50px;
-    padding-left: 75px;
-    padding-right: 75px;
-    margin-left: 475px;
-    margin-top: -460px;
+    font-size: 35px;
+    padding-left: 55px;
+    padding-right: 35px;
+    margin-left: 425px;
+    margin-top: -430px;
     background-color: black;
     color: green;
     
@@ -117,27 +113,27 @@ li {
 .air {
     width: 350px;
     height: 350px;
-    margin-left: 1100px;
-    margin-top: -4px;
+    margin-left: 1025px;
+    margin-top: -2px;
     border: black;
     border-style: solid;
 }  
 
 .airtxt {
     width: 125px;
-    font-size: 50px;
-    margin-left: 1300px;
-    margin-top: -562px;
-    padding-left: 75px;
-    padding-right: 50px;
+    font-size: 35px;
+    margin-left: 1280px;
+    margin-top: -532px;
+    padding-left: 40px;
+    padding-right: 10px;
     background-color: black;
     color: white;
     
 }
 
 .water {
-    margin-left: 1575px;
-    
+    margin-left: 1422px;
+    margin-top: -4px;
     width: 350px;
     height: 350px;
     border: black;
@@ -147,11 +143,11 @@ li {
 
 .watertxt {
     width: 125px;
-    padding-left: 75px;
-    padding-right: 75px;
-    font-size: 50px;
-    margin-left: 1720px;
-    margin-top: -457px;
+    padding-left: 45px;
+    padding-right: 30px;
+    font-size: 35px;
+    margin-left: 1660px;
+    margin-top: -425px;
     background-color: black;
     color: blue;
     
@@ -162,9 +158,9 @@ li {
     color: red;
     background-color: rgb(255, 255, 255);
     font-size: 40px;
+    margin-top: 0;
     margin-left: 125px;
-    margin-top: -7px;
-    margin-right: 1700px;
+    margin-right: 1500px;
    
     
 }
@@ -173,27 +169,27 @@ li {
     color: green;
     background-color: white;
     font-size: 40px;    
-    margin-left: 625px;
+    margin-left: 525px;
     margin-top: -80px;
-    margin-right: 1200px;
+    margin-right: 1100px;
 }
 
 .air_price {
     color: aquamarine;
     background-color: white;
     font-size: 40px;
-    margin-left: 1125px;
-    margin-top: -82px;
-    margin-right: 700px;
+    margin-left: 1055px;
+    margin-top: -84px;
+    margin-right: 580px;
 }
 
 .water_price {         
     background-color: white;
     color: blue;
     font-size: 40px;
-    margin-left: 1600px;
-    margin-top: -76px;
-    margin-right: 225px;
+    margin-left: 1450px;
+    margin-top: -81px;
+    margin-right: 175px;
 }
 
 .second_title {
@@ -205,15 +201,15 @@ li {
     border-style: groove;
     border-color: blue; 
     border-width: 6px;  
-    padding-left: 800px;
     padding-bottom: 800px;
+    text-align: center;
 }
 
 .cat1 {
     width: 350px;
     height: 350px; 
+    margin-left: 40px;
     border-style: solid;
-    margin-left: 100px;
     border-width: 5px; 
     position:relative; top: -350px;
      
@@ -233,7 +229,7 @@ li {
     width: 350px;
     height: 350px; 
     border-style: solid;
-    margin-left: 200px;
+    margin-left: 125px;
     border-width: 5px; 
     position:relative; top: -350px; 
 }
@@ -242,32 +238,98 @@ li {
     width: 350px;
     height: 350px; 
     border-style: solid;
-    margin-left: 150px;
+    margin-left: 130px;
     border-width: 5px; 
     position:relative; top: -350px; 
 }
 
 .havarti {
     font-size: 40px;
-    margin-left: 125px;
+    margin-left: 50px;
     margin-top: -345px
 }
 
 .paul {
     font-size: 40px;
-    margin-left: 600px;
+    margin-left: 525px;
     margin-top: -80px;
 }
 
 .jamie {
     font-size: 40px;
-    margin-left: 1170px;
+    margin-left: 1010px;
     margin-top: -80px;
 }
 
 .dill {
     font-size: 40px;
-    margin-left: 1690px;
+    margin-left: 1525px;
     margin-top: -80px;
 }
 
+.havarti_bio {
+    margin-left: 40px;
+    margin-top: -30px;
+    text-indent: 30px;
+    font-size: 20px;
+    width: 310px;
+    color: white;
+    background-color: rgb(63, 61, 61);
+    border-style: groove;
+    border-color: gray;
+    border-width: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: Arial;
+
+}
+
+.paul_bio {
+    text-indent: 30px;
+    font-size: 20px;
+    width: 310px;
+    color: white;
+    background-color: rgb(63, 61, 61);
+    border-style: groove;
+    border-color: gray;
+    border-width: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 520px;
+    margin-top: -300px;
+    font-family: Arial;
+
+}
+
+.jamie_bio {
+    text-indent: 30px;
+    font-size: 19px;
+    width: 330px;
+    color: white;
+    background-color: rgb(63, 61, 61);
+    border-style: groove;
+    border-color: gray;
+    border-width: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: Arial;
+    margin-left: 1000px;
+    margin-top: -260px;
+
+}
+
+.dill_bio {
+    text-indent: 30px;
+    font-size: 17px;
+    width: 310px;
+    color: white;
+    background-color: rgb(63, 61, 61);
+    border-style: groove;
+    border-color: gray;
+    border-width: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: Arial;
+    margin-left: 1500px;
+    margin-top: -320px;
+}
